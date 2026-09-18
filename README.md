@@ -1,7 +1,7 @@
 # Codex
 
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/GuoLuPM/skills/main/.codex/INSTALL.md
+Fetch and follow instructions from https://raw.githubusercontent.com/GuoLuPM/skills/main/.codex/INSTALL.md, then remind me to restart Codex.
 ```
 
 # 如何使用
